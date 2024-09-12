@@ -7,9 +7,47 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:236243147512:android:26f8c8f42665943734b90d",
+        "android_client_info": {
+          "package_name": "com.backupchef.backupchef"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCN_4q9U2aSVs6OFBDM1ylrUWTMe93shU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:236243147512:android:2114c3c7af6b0e9734b90d",
         "android_client_info": {
           "package_name": "com.example.foodie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCN_4q9U2aSVs6OFBDM1ylrUWTMe93shU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236243147512:android:27a09528cd71c66634b90d",
+        "android_client_info": {
+          "package_name": "com.the_backup_chef.app"
         }
       },
       "oauth_client": [],
