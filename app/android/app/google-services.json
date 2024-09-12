@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236243147512",
+    "project_id": "the-backup-chef",
+    "storage_bucket": "the-backup-chef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236243147512:android:2114c3c7af6b0e9734b90d",
+        "android_client_info": {
+          "package_name": "com.example.foodie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCN_4q9U2aSVs6OFBDM1ylrUWTMe93shU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
